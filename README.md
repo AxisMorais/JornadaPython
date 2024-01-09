@@ -1,0 +1,6 @@
+# Jornada Python
+# Aula 1 - Power UP
+• Criação de uma automação elaborada para acessar um sistema e realizar cadastros de produtos advindos de um arquivo CSV.
+ Python - bibliotecas: pyautogui  e pandas. 
+
+# Aula 2 - 
