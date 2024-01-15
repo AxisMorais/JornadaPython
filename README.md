@@ -1,4 +1,4 @@
-# Jornada Python
+# Jornada Python - 2024
 Durante o processo de treinamento foi apresentado os seguinte conteúdos:
 * Automação em Python - Utilização da biblioteca pyautogui; 
 * Elaboração de gráficos, análise de dados e insights, utilização da biblioteca plotly; 
